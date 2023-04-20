@@ -38,6 +38,10 @@ I am a student in my last semester at the Bialystok University of Technology, st
 
   - [SwagLabs login page](https://docs.google.com/document/d/1UWv1k0iv18ypiPnGEnJUc0iXNpYAKhOQ/edit?usp=sharing&ouid=113722459299684108165&rtpof=true&sd=true)
 
+## My bug report examples
+
+  - [Jira bug report](https://drive.google.com/file/d/1lr5D-refheyeox3955-dXycnZSJ9XCfn/view?usp=sharing)
+
 ## My projects
 
   - [Automated tests for online shop Saucedemo](https://github.com/matkub0/Cypress_saucedemo)
