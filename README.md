@@ -45,3 +45,4 @@ I am a student in my last semester at the Bialystok University of Technology, st
 ## My projects
 
   - [Automated tests for online shop Saucedemo](https://github.com/matkub0/Cypress_saucedemo)
+  - [Selenium automated tests framework for Saucedemo](https://github.com/matkub0/SeleniumAutomationTestFramework)
