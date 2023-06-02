@@ -43,6 +43,5 @@ I am a student in my last semester at the Bialystok University of Technology, st
   - [Jira bug report](https://drive.google.com/file/d/1lr5D-refheyeox3955-dXycnZSJ9XCfn/view?usp=sharing)
 
 ## My projects
-
-  - [Automated tests for online shop Saucedemo](https://github.com/matkub0/Cypress_saucedemo)
   - [Selenium automated tests framework for Saucedemo](https://github.com/matkub0/SeleniumAutomationTestFramework)
+  - [Automated tests for online shop Saucedemo](https://github.com/matkub0/Cypress_saucedemo)
