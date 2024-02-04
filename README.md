@@ -2,13 +2,16 @@
 
 ## About me
 
-I am a student in my last semester at the Bialystok University of Technology, studying Management in extramural mode. My first commercial experience was gained as a junior engineer in the quality assurance department, where I worked on two different projects. The career path that I would like to continue in the future is in the automated testing field. I am ready for new challenges and determined to acquire new knowledge. Outside of work, I am constantly improving my knowledge of programming languages and devoting time to my other interests such as computer and board games, strength training and cycling trips.
+I'm a technology enthusiast with a passion for ensuring software quality. I am motivated to continuously develop professionally and eagerly learn new tools and methodologies related to software testing.
+The career path I want to follow is automated testing, so I am constantly trying to expand my knowledge with new freamwork and improving good testing practices. I also get involved with security and performance testing by developing my knowledge in tools such as JMeter and Burp Suite. Continuous development and new challenges are what motivate me to keep working.
 
 ## Tools used in testing:
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [Cypress](https://www.cypress.io/) - A JavaScript-based end-to-end testing tool designed for modern web test automation
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Charles](https://www.charlesproxy.com/) - Web Debugging Proxy Application
+  - [ADB](https://developer.android.com/tools/adb) - Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device.
   - Github
   - Chrome Dev Tools
   - [ShareX](https://getsharex.com/) - Screen capture software
@@ -17,22 +20,24 @@ I am a student in my last semester at the Bialystok University of Technology, st
 
   - SQL
   - Java
-  - HTML
-  - CSS
+  - Charles
+  - ADB
   - Reporting bugs
+  - Testing on various platfroms (Web, iOS, Android, Smart TV, AndroidTV and tvOS)
   - Creating test cases
   - Experience of working in SCRUM methodology
+
 
 ## Courses
 
   - Java Programming Masterclass updated to Java 17 Tim Buchalka
   - SQL - The Complete Developer's Guide (MySQL, PostgreSQL) Maximilian Schwarzmüller
-  - JavaScript - The Complete Guide 2023 (Beginner + Advanced) Maximilian Schwarzmüller (In progress)
 
 ## Books
 
   - Java: A Beginner's Guide. Author: Herbert Schildt (In progeress)
   - ISTQB Certified Tester. Basic level Authors: Adam Roman, Lucjan Stapp
+  - Python Crash Course. Eric Matthes
 
 ## My test case examples
 
