@@ -49,4 +49,4 @@ The career path I want to follow is automated testing, so I am constantly trying
 
 ## My projects
   - [Selenium automated tests framework for Saucedemo](https://github.com/matkub0/SeleniumAutomationTestFramework)
-  - [Automated tests for online shop Saucedemo](https://github.com/matkub0/Cypress_saucedemo)
+  - [Automated tests for online shop Saucedemo (Cypress + JS + PageObject Pattern)](https://github.com/matkub0/Cypress_saucedemo)
